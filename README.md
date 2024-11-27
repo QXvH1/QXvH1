@@ -1,6 +1,4 @@
-@QXvH1 aka dr.Zarea Copenheimer, or aQba 
-
-i write simple stuff (:
+QXvH1
 
 <!---
 QXvH1/QXvH1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
